@@ -15,9 +15,8 @@
 
 If this helped you, you can buy me a coffee:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/jhonnydev)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jhonnydev)
 
----
 
 ## ⚠️ Disclaimer
 
